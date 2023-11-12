@@ -7,6 +7,6 @@ Created 6-XI-2023
 """
 
 
-CERCA = "top 100 songs 2023" # Clave per a realitzar la bùsqueda a SoundCloud
-N = 20 # Nombre de vegades que es realitzarà SCROLL per a descarregar les dades
-NOM_ARXIU = "/Top100Songs2023.csv" # Nom de l'arxiu on es descarregaran les dades.
+CERCA = "top songs" # Clave per a realitzar la bùsqueda a SoundCloud
+N = 10 # Nombre de vegades que es realitzarà SCROLL per a descarregar les dades
+NOM_ARXIU = "/TopSongs.csv" # Nom de l'arxiu on es descarregaran les dades.
