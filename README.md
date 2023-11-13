@@ -34,14 +34,14 @@ Proporcionar una visió global i anual de les dades recopilades.
 
 El repositori està organitzat en les següents carpetes i arxius:
 
-- `/src`: Aquesta carpeta conté els arxius de codi font.
+- `/dataset/`: Aquesta carpeta conté el conjunt de dades generat.
 
-- `/dataset`: Aquesta carpeta conté el conjunt de dades generat.
+- `/dataset/examples/`: Aquesta carpeta conté exemples d'ús del codi.
 
-- `/dataset/examples`: Aquesta carpeta conté exemples d'ús del codi.
+- `/source/`: Aquesta carpeta conté els arxius de codi font.
 
-- `/source`: Aquesta carpeta conté l'arxiu de les biblioteques necessàries.
-
+- `/Requeriments.txt`: Aquest arxiu conté les biblioteques necessàries.
+  
 - `/README.md`: El present arxiu.
 
 
