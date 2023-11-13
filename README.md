@@ -96,7 +96,7 @@ Si fas ús d'aquesta eina, recorda respectar els drets d'autor i les polítiques
 
 El conjunt de dades generat en aquest projecte té un DOI de Zenodo. Podeu accedir-hi aquí: 
 
-[enllaç al DOI] https://doi.org/10.5281/zenodo.10079879
+[enllaç al DOI] https://doi.org/10.5281/zenodo.10115525
 
 
 ## Contacte
