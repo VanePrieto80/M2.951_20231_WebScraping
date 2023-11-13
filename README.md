@@ -1,7 +1,7 @@
 # **README - Web Scraping de SoundCloud**
 
 
-# Top Songs de SoundCloud: Títol, Artista, Popularitat i més.
+# Albums top: Títol, Artista, Popularitat i més.
 
 
 ## Membres de l'Equip
